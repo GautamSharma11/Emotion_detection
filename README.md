@@ -20,7 +20,7 @@ This project focuses on emotion detection using a Convolutional Neural Network (
     cd Emotion_detection
     ```
 
-3. Ensure that all required libraries are installed:
+3. Ensure that all required libraries are installed(if not already):
     ```
     pip install -r requirements.txt
     ```
@@ -30,4 +30,5 @@ This project focuses on emotion detection using a Convolutional Neural Network (
     - Ensure that each image has dimensions of 227x227 pixels.
 
 5. Training and testing the model:
-    - ipynb file contains code for both training and testing the mo
+    - ipynb file contains code for both training and testing the model.
+    - the model can be loaded as well. My trained model is provided as well.
