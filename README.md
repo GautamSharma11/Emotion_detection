@@ -3,10 +3,10 @@
 ## Overview
 This project focuses on emotion detection using a Convolutional Neural Network (CNN). The CNN model is trained to detect seven different emotions from grayscale images with dimensions 227x227 pixels. The emotions include happiness, sadness, anger, surprise, fear, disgust, and neutral.
 
-## Requirements
+## Required tools
 - Python 3.x
 - PyTorch
-- OpenCV
+- matplotlib
 - NumPy
 
 ## Usage
