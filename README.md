@@ -31,6 +31,3 @@ This project focuses on emotion detection using a Convolutional Neural Network (
 
 5. Training and testing the model:
     - ipynb file contains code for both training and testing the mo
-
-## Acknowledgments
-This project was inspired by the work of [reference_author_name](link_to_reference).
