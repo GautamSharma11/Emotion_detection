@@ -1,13 +1,14 @@
 # Emotion Detection Project
 
 ## Overview
-This project focuses on emotion detection using a Convolutional Neural Network (CNN). The CNN model is trained to detect seven different emotions from grayscale images with dimensions 227x227 pixels. The emotions include happiness, sadness, anger, surprise, fear, disgust, and neutral.
+This project enhances Facial Emotion Recognition (FER) by integrating Residual Networks (ResNet) with Squeeze-and-Excitation (SE) blocks and a bagging ensemble approach. The ensemble is trained on FER2013 dataset publicly available on kaggle and detect seven different emotions from grayscale images with dimensions 227x227 pixels. The emotions include happiness, sadness, anger, surprise, fear, disgust, and neutral.
 
 ## Required tools
 - Python 3.x
 - PyTorch
 - matplotlib
 - NumPy
+- torchensemble
 
 ## Usage
 1. Clone this repository:
@@ -31,4 +32,4 @@ This project focuses on emotion detection using a Convolutional Neural Network (
 
 5. Training and testing the model:
     - ipynb file contains code for both training and testing the model.
-    - the model can be loaded as well. My trained model is provided as well.
+    - Pretrained ensemble is provided in a zip file.
